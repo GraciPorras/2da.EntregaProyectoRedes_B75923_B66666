@@ -38,8 +38,10 @@ y es usada para tener el registro de los clientes registrados en la aplicación,
 
 
 2. Este debe de tener el archivo mysql-connector-java-5.1.13-bin.jar para poder conectar con la base de datos en mysql. Este archivo está incorporado en el repositorio.
+
 3. También hay que agregar la librería commons-codec-1.14.jar para el proceso de encriptar y desencriptar
 
+![3](https://user-images.githubusercontent.com/37557490/87209387-e3da2f80-c2ce-11ea-9750-66afab94aa39.png)
 
 ![2](https://user-images.githubusercontent.com/37557490/87208855-2dc21600-c2cd-11ea-860e-579be3d0be19.png)
 
