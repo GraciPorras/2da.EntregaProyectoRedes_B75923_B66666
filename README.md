@@ -22,6 +22,8 @@ y es usada para tener el registro de los clientes registrados en la aplicación,
 4. Una vez realizados estos pasos ya podrá correr el servidor.
 5. Cuando se registré en el servidor este va a crear la carpeta respectiva del usuario, esta se va a crear en en la siguiente ruta: ..\Documents\Servidor_ProyectoRedes\CarpetasUsuario.
 
+![Anotación 2020-07-10 160646](https://user-images.githubusercontent.com/43789304/87207504-46303180-c2c9-11ea-9dda-4b9b96990422.png)
+
 ## Requerimientos para ejecutar el cliente
 1. El proyecto del cliente lleva el nombre de cliente_proyectoRedes, esta carpeta se debe guardar en la carpeta de documentos.
 
@@ -33,4 +35,7 @@ y es usada para tener el registro de los clientes registrados en la aplicación,
 
 
 4. Una vez realizados el paso anterior ya podrá correr el cliente.
-5. Cuando el cliente solicite un archivo este se va a guardar en la siguiente ruta: ..\Documents\cliente_proyectoRedes\MisArchivos
+5. Cuando el cliente solicite un archivo este se va a guardar en la siguiente ruta: ..\Documents\cliente_proyectoRedes\MisArchivos\Compartidos
+
+![Anotación 2020-07-10 160647](https://user-images.githubusercontent.com/43789304/87207717-d53d4980-c2c9-11ea-9e3d-d4714a026e2e.png)
+
