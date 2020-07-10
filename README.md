@@ -6,7 +6,7 @@
 ### Creadores: 
 Ronald Sancho Madrigal B66666 y Graciela Porras Rojas B75923
 
-El software implementado se desarrolló en el lenguaje de programación Java mediante el IDE ###NetBeans. Otra herramienta de trabajo que se utilizó en el proyecto fue el DBMS MySQL, ya que se creó un base de datos en el servidor de la UCR de turrialba, a esta base de datos se le llamó ####proyecto_redes_b66666_b75923
+El software implementado se desarrolló en el lenguaje de programación Java mediante el IDE ### NetBeans. Otra herramienta de trabajo que se utilizó en el proyecto fue el DBMS MySQL, ya que se creó un base de datos en el servidor de la UCR de turrialba, a esta base de datos se le llamó ### proyecto_redes_b66666_b75923
 y es usada para tener el registro de los clientes registrados en la aplicación, el script se encuentra en los archivos adjuntos.
 
 ## Requerimientos para ejecutar el servidor
