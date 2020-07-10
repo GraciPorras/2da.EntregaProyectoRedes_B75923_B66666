@@ -7,7 +7,10 @@
 Ronald Sancho Madrigal B66666 y Graciela Porras Rojas B75923
 
 El software implementado se desarrolló en el lenguaje de programación Java mediante el IDE **NetBeans**. Otra herramienta de trabajo que se utilizó en el proyecto fue el DBMS MySQL, ya que se creó un base de datos en el servidor de la UCR de turrialba, a esta base de datos se le llamó **proyecto_redes_b66666_b75923**
-y es usada para tener el registro de los clientes registrados en la aplicación, el script se encuentra en los archivos adjuntos.
+y es usada para tener el registro de los clientes registrados en la aplicación, la siguiente imagen muestra el script de la base de datos, este también se encuentra en los archivos adjuntos.
+
+![ScriptRedes](https://user-images.githubusercontent.com/43789304/87208022-b25f6500-c2ca-11ea-9168-edc0f8b3b7ce.png)
+
 
 ## Requerimientos para ejecutar el servidor
 1. El proyecto del servidor lleva el nombre de Servidor_ProyectoRedes, esta carpeta se debe guardar en la carpeta de documentos. 
