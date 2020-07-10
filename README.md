@@ -20,7 +20,7 @@ y es usada para tener el registro de los clientes registrados en la aplicación,
 
 2. Este debe de tener el archivo mysql-connector-java-5.1.13-bin.jar para poder conectar con la base de datos en mysql. Este archivo está incorporado en el repositorio.
 3. También hay que agregar la librería commons-codec-1.14.jar para el proceso de encriptar y desencriptar
-
+![2](https://user-images.githubusercontent.com/37557490/87208855-2dc21600-c2cd-11ea-860e-579be3d0be19.png)
 
 4. Una vez realizados estos pasos ya podrá correr el servidor.
 5. Cuando se registré en el servidor este va a crear la carpeta respectiva del usuario, esta se va a crear en en la siguiente ruta: ..\Documents\Servidor_ProyectoRedes\CarpetasUsuario.
